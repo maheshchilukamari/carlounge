@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carlounge/static/css/main.277ce616.chunk.css",
+    "main.js": "/carlounge/static/js/main.11cf8a2e.chunk.js",
+    "main.js.map": "/carlounge/static/js/main.11cf8a2e.chunk.js.map",
+    "runtime-main.js": "/carlounge/static/js/runtime-main.7a1ddf06.js",
+    "runtime-main.js.map": "/carlounge/static/js/runtime-main.7a1ddf06.js.map",
+    "static/css/2.818011ed.chunk.css": "/carlounge/static/css/2.818011ed.chunk.css",
+    "static/js/2.e0d98d3a.chunk.js": "/carlounge/static/js/2.e0d98d3a.chunk.js",
+    "static/js/2.e0d98d3a.chunk.js.map": "/carlounge/static/js/2.e0d98d3a.chunk.js.map",
+    "static/js/3.15bb4e0b.chunk.js": "/carlounge/static/js/3.15bb4e0b.chunk.js",
+    "static/js/3.15bb4e0b.chunk.js.map": "/carlounge/static/js/3.15bb4e0b.chunk.js.map",
+    "index.html": "/carlounge/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/carlounge/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.277ce616.chunk.css.map": "/carlounge/static/css/main.277ce616.chunk.css.map",
+    "static/js/2.e0d98d3a.chunk.js.LICENSE.txt": "/carlounge/static/js/2.e0d98d3a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/carlounge/static/media/logo.6ce24c58.svg",
+    "static/media/th.766d8115.jfif": "/carlounge/static/media/th.766d8115.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1ddf06.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e0d98d3a.chunk.js",
+    "static/css/main.277ce616.chunk.css",
+    "static/js/main.11cf8a2e.chunk.js"
+  ]
+}
